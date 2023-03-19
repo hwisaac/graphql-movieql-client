@@ -1,8 +1,10 @@
 # graphql tutorial
 
-## apollo client
+> GraphQL , Apollo client 로 영화 웹앱 만들기
 
-> ReactJS 의 apollo client 가 graphql 서버와 통신하도록 구성하자.
+ReactJS 의 apollo client 가 GraphQL 서버와 통신하도록 구성하자.
+
+## apollo client
 
 graphql 의 api 의 url 을 써서 client를 구성할 수 있다.
 
