@@ -184,7 +184,7 @@ const GET_MOVIE = gql`
 
 > 로컬 필드는 클라이언트에서만 사용되는 필드를 의미하며, 서버에서 직접 제공하지 않는 데이터를 처리할 때 유용합니다. isLiked 필드는 서버에서 제공하는 데이터가 아니라, 사용자가 영화를 좋아요로 표시했는지를 나타내는 로컬 데이터이기 때문에 Local Field로 분류됩니다.
 
-### cache.writeFrament() 메서드
+### cache.writeFragment()
 
 > `cache.writeFragment()` 함수는 Apollo Client에서 제공하는 함수 중 하나로, 로컬 캐시에 있는 데이터를 업데이트할 때 사용됩니다.
 
